@@ -7,7 +7,7 @@ The notebook is implemented in **Google Colab**.
 - `loan_approval.ipynb` → Main notebook with preprocessing, model training, and evaluation.
 
 ## How to Use
-1. Open the notebook in [Google Colab](https://colab.research.google.com/).
+1. Open the notebook in google colab
 2. Run all cells to see the workflow and results.
 
 ## Requirements
