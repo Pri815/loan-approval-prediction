@@ -1,7 +1,7 @@
 # Loan Approval Prediction
 
 This project builds a machine learning model to predict whether a loan application will be approved based on applicant details.  
-The implementation is done in **Python** using **Google Colab / Jupyter Notebook**.
+The implementation is done in **Python** using **Google Colab **.
 
 ---
 
